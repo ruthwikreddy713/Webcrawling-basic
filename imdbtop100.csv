@@ -1,0 +1,101 @@
+Sno,Title,year,rating,votes 
+1, The Shawshank Redemption, 1994, 9.3, 2348126
+2, The Godfather, 1972, 9.2, 1624378
+3, The Dark Knight, 2008, 9.0, 2307990
+4, The Godfather: Part II, 1974, 9.0, 1132498
+5, 12 Angry Men, 1957, 9.0, 691704
+6, The Lord of the Rings: The Return of the King, 2003, 8.9, 1645882
+7, Pulp Fiction, 1994, 8.9, 1830230
+8, Schindler's List, 1993, 8.9, 1215951
+9, Inception, 2010, 8.8, 2071927
+10, Fight Club, 1999, 8.8, 1858825
+11, The Lord of the Rings: The Fellowship of the Ring, 2001, 8.8, 1664874
+12, Forrest Gump, 1994, 8.8, 1813778
+13, Il buono| il brutto| il cattivo, 1966, 8.8, 689799
+14, The Lord of the Rings: The Two Towers, 2002, 8.7, 1488472
+15, The Matrix, 1999, 8.7, 1680117
+16, Goodfellas, 1990, 8.7, 1023372
+17, Star Wars: Episode V - The Empire Strikes Back, 1980, 8.7, 1161637
+18, One Flew Over the Cuckoo's Nest, 1975, 8.7, 919851
+19, Gisaengchung, 2019, 8.6, 559003
+20, Interstellar, 2014, 8.6, 1516952
+21, Cidade de Deus, 2002, 8.6, 700408
+22, Sen to Chihiro no kamikakushi, 2001, 8.6, 653520
+23, Saving Private Ryan, 1998, 8.6, 1238526
+24, The Green Mile, 1999, 8.6, 1150624
+25, La vita è bella, 1997, 8.6, 625192
+26, Se7en, 1995, 8.6, 1448762
+27, The Silence of the Lambs, 1991, 8.6, 1273180
+28, Star Wars, 1977, 8.6, 1233813
+29, Seppuku, 1962, 8.6, 42410
+30, Shichinin no samurai, 1954, 8.6, 316426
+31, It's a Wonderful Life, 1946, 8.6, 406643
+32, Hamilton, 2020, 8.5, 56528
+33, Whiplash, 2014, 8.5, 719778
+34, The Intouchables, 2011, 8.5, 762651
+35, The Prestige, 2006, 8.5, 1192924
+36, The Departed, 2006, 8.5, 1192483
+37, The Pianist, 2002, 8.5, 731498
+38, Gladiator, 2000, 8.5, 1344053
+39, American History X, 1998, 8.5, 1036401
+40, The Usual Suspects, 1995, 8.5, 993136
+41, Léon, 1994, 8.5, 1037652
+42, The Lion King, 1994, 8.5, 944179
+43, Terminator 2: Judgment Day, 1991, 8.5, 997174
+44, Nuovo Cinema Paradiso, 1988, 8.5, 231392
+45, Hotaru no haka, 1988, 8.5, 236080
+46, Back to the Future, 1985, 8.5, 1060562
+47, Once Upon a Time in the West, 1968, 8.5, 303476
+48, Psycho, 1960, 8.5, 605527
+49, Casablanca, 1942, 8.5, 523076
+50, Modern Times, 1936, 8.5, 218488
+51, City Lights, 1931, 8.5, 168281
+52, Capharnaüm, 2018, 8.4, 63355
+53, Joker, 2019, 8.4, 945040
+54, Kimi no na wa., 2016, 8.4, 196372
+55, Dangal, 2016, 8.4, 157100
+56, Spider-Man: Into the Spider-Verse, 2018, 8.4, 377452
+57, Avengers: Endgame, 2019, 8.4, 815581
+58, Avengers: Infinity War, 2018, 8.4, 838217
+59, Coco, I) (, 8.4, 386613
+60, Django Unchained, 2012, 8.4, 1361170
+61, The Dark Knight Rises, 2012, 8.4, 1519165
+62, 3 Idiots, 2009, 8.4, 345330
+63, Taare Zameen Par, 2007, 8.4, 169473
+64, WALL·E, 2008, 8.4, 1001885
+65, The Lives of Others, 2006, 8.4, 359515
+66, Oldeuboi, 2003, 8.4, 516705
+67, Memento, 2000, 8.4, 1127844
+68, Mononoke-hime, 1997, 8.4, 344295
+69, Once Upon a Time in America, 1984, 8.4, 312207
+70, Raiders of the Lost Ark, 1981, 8.4, 885550
+71, The Shining, 1980, 8.4, 900368
+72, Apocalypse Now, 1979, 8.4, 607704
+73, Alien, 1979, 8.4, 789430
+74, Tengoku to jigoku, 1963, 8.4, 34682
+75, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, 1964, 8.4, 451402
+76, Witness for the Prosecution, 1957, 8.4, 109257
+77, Paths of Glory, 1957, 8.4, 178629
+78, Rear Window, 1954, 8.4, 445030
+79, Sunset Blvd., 1950, 8.4, 202120
+80, The Great Dictator, 1940, 8.4, 203652
+81, Jagten, 2012, 8.3, 282771
+82, Inglourious Basterds, 2009, 8.3, 1271170
+83, Eternal Sunshine of the Spotless Mind, 2004, 8.3, 913375
+84, Requiem for a Dream, 2000, 8.3, 768466
+85, American Beauty, 1999, 8.3, 1071514
+86, Good Will Hunting, 1997, 8.3, 863558
+87, Toy Story, 1995, 8.3, 889293
+88, Braveheart, 1995, 8.3, 960687
+89, Reservoir Dogs, 1992, 8.3, 920532
+90, Full Metal Jacket, 1987, 8.3, 676517
+91, Aliens, 1986, 8.3, 653816
+92, Amadeus, 1984, 8.3, 369733
+93, Star Wars: Episode VI - Return of the Jedi, 1983, 8.3, 952310
+94, Das Boot, 1981, 8.3, 232361
+95, 2001: A Space Odyssey, 1968, 8.3, 604764
+96, Vertigo, 1958, 8.3, 365257
+97, Singin' in the Rain, 1952, 8.3, 219473
+98, Ladri di biciclette, 1948, 8.3, 146906
+99, Citizen Kane, 1941, 8.3, 404383
+100, M - Eine Stadt sucht einen Mörder, 1931, 8.3, 143828
